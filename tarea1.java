@@ -9,9 +9,11 @@ public class area() {
     double result;
     double base, height;
     while (confirm_exit = false) {
-      System.out.println("<---- Calculadora de área ---->")
-      System.out.println("Selecciona 1 para el área del círculo")
-      System.out.println("Selecciona 2 para el área del triángulo")
+      System.out.println("<---- Calculadora de área ---->");
+      System.out.println("Selecciona 1 para el área del círculo");
+      System.out.println("Selecciona 2 para el área del triángulo");
+      System.out.println("Selecciona 3 para el área del cuadrado");
+      System.out.println("Selecciona 4 para el área del triángulo");
     }
   }
 }
