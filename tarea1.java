@@ -14,6 +14,7 @@ public class area() {
       System.out.println("Selecciona 2 para el área del triángulo");
       System.out.println("Selecciona 3 para el área del cuadrado");
       System.out.println("Selecciona 4 para el área del triángulo");
+      
     }
   }
 }
